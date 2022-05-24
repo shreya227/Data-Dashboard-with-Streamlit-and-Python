@@ -7,8 +7,12 @@ Build my first interactive, data dashboard with the Streamlit library in Python.
 3. To Build interactive data dashboards with Streamlit and Python
 
 ## Code and Resources Used
-* Anaconda version:  4.12.0
+* Conda version:  4.12.0
 * Python Version: 3.9.7
+* Text editor used: Sublime Text 3 with kite
+* Recommended Tool: Kite
+=> Kite is a FREE AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top editors and IDEs to give you smart completions and documentation while you’re typing. I've been using Kite and I love it! 
+Check out Kite: https://www.kite.com/get-kite/?utm_me...
 * Packages: streamlit, pandas, numpy, matplotlib, plotly express, wordcloud, Python Imaging Library(PIL)
 * Streamlit documentation: https://docs.streamlit.io/
 * Data Professor's YouTube playlist: https://youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE
