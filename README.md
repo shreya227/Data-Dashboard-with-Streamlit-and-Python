@@ -25,3 +25,8 @@ Check out Kite: https://www.kite.com/get-kite/?utm_me...
 
 ## Output
 link: http://localhost:8501/
+
+## Preview of the output
+
+https://user-images.githubusercontent.com/88545581/170021352-2b1ada86-6949-4158-87ea-1124056b1237.mp4
+
