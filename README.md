@@ -23,8 +23,8 @@ Check out Kite: https://www.kite.com/get-kite/?utm_me...
 
 
 
-## Output
-link: http://localhost:8501/
+## Output Link:
+https://share.streamlit.io/shreya227/data-dashboard-with-streamlit-and-python/main/tweets.py
 
 ## Preview of the output
 
